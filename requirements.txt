@@ -1,0 +1,6 @@
+streamlit
+numpy
+plotly
+cv2
+google.generativeai
+tensorflow
